@@ -12,9 +12,9 @@
     "events": [
         {
             "media": {
-                "url": "path/to/your/image1.jpg",
+                "url": "assets/images/divergence2.jpg",
                 "caption": "The Beginning of the End",
-                "credit": "Illustration by Artist Name"
+                "credit": "Illustration is AI-generated (will be replaced soon by human art)"
             },
             "start_date": {
                 "year": "1337",
@@ -41,6 +41,38 @@
             "text": {
                 "headline": "First World War",
                 "text": "<p>The first world war Nouvelle Terre has ever experienced, and perhaps one of the biggest domino effect in its history.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "path/to/your/image2.jpg",
+                "caption": "They didn't stand a chance...",
+                "credit": "Illustration by Artist Name"
+            },
+            "start_date": {
+                "day": "05",
+                "month": "02",
+                "year": "1892"
+            },
+            "text": {
+                "headline": "Conquest of Portugal",
+                "text": "<p>Marrero's Spain annexes Portugal with little to no resistance.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/proclaimed.png",
+                "caption": "Of course...",
+                "credit": "Illustration by Sleanux"
+            },
+            "start_date": {
+                "day": "07",
+                "month": "02",
+                "year": "1892"
+            },
+            "text": {
+                "headline": "Iberia Is Proclaimed",
+                "text": "<p>Shortly after Portugal is annexed, the military governor Marrero proclaims the new state of Iberia.</p>"
             }
         },
         {
@@ -74,7 +106,7 @@
             },
             "text": {
                 "headline": "Third World War",
-                "text": "<p>More destructive than its predecessor. And probably motivated by pure pettiness.</p>"
+                "text": "<p>The most destructive yet. And probably motivated by pure pettiness.</p>"
             }
         },
         {
@@ -102,6 +134,9 @@
             },
             "start_date": {
                 "year": "2021"
+            },
+            "end_date":{
+                "year": "2024"
             },
             "text": {
                 "headline": "Franco-German War",
