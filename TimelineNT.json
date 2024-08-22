@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-            "url": "path/to/your/header-image.jpg",
+            "url": "assets/images/hero2.jpg",
             "caption": "Nouvelle Terre: A Timeline of Despair"
         },
         "text": {
@@ -24,6 +24,74 @@
             "text": {
                 "headline": "The Great Divergence",
                 "text": "<p>The timeline of Nouvelle Terre diverges from the Old World in 1337, during the Hundred Years War. Here, France achieves a decisive victory, changing the course of history forever.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "path/to/your/image2.jpg",
+                "caption": "The First Of Many",
+                "credit": "Illustration by Artist Name"
+            },
+            "start_date": {
+                "year": "1889"
+            },
+            "end_date":{
+                "year": "1894"
+            },
+            "text": {
+                "headline": "First World War",
+                "text": "<p>The first world war Nouvelle Terre has ever experienced, and perhaps one of the biggest domino effect in its history.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "path/to/your/image2.jpg",
+                "caption": "The Second Of Many",
+                "credit": "Illustration by Artist Name"
+            },
+            "start_date": {
+                "year": "1912"
+            },
+            "end_date":{
+                "year": "1919"
+            },
+            "text": {
+                "headline": "Second World War",
+                "text": "<p>More destructive than its predecessor.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "path/to/your/image2.jpg",
+                "caption": "The Third Of Many",
+                "credit": "Illustration by Artist Name"
+            },
+            "start_date": {
+                "year": "1928"
+            },
+            "end_date": {
+                "year": "1939"
+            },
+            "text": {
+                "headline": "Third World War",
+                "text": "<p>More destructive than its predecessor. And probably motivated by pure pettiness.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "path/to/your/image2.jpg",
+                "caption": "The Last... so far.",
+                "credit": "Illustration by Artist Name"
+            },
+            "start_date": {
+                "year": "1946"
+            },
+            "end_date":{
+                "year": "1954"
+            },
+            "text": {
+                "headline": "Fourth World War",
+                "text": "<p>So recent, yet so little is known about it. But we know how the Global Hunger Crisis started. We all do.</p>"
             }
         },
         {
