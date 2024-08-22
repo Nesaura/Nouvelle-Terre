@@ -175,8 +175,16 @@
             }
         },
         {
+            "media": {
+                "url": "path/to/your/image3.jpg",
+                "caption": "Hello?",
+                "credit": "ILLUSTRATION UNREADABLE."
+            },
             "start_date": {
                 "year": "2047"
+            },
+            "end_date": {
+                "year": "2158"
             },
             "text": {
                 "headline": "Fifth World War?",
