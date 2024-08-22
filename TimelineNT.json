@@ -30,7 +30,7 @@
             "media": {
                 "url": "path/to/your/image2.jpg",
                 "caption": "The First Of Many",
-                "credit": "Illustration by Artist Name"
+                "credit": "Illustration not available yet"
             },
             "start_date": {
                 "year": "1889"
@@ -47,7 +47,7 @@
             "media": {
                 "url": "path/to/your/image2.jpg",
                 "caption": "They didn't stand a chance...",
-                "credit": "Illustration by Artist Name"
+                "credit": "Illustration not available yet"
             },
             "start_date": {
                 "day": "05",
@@ -79,7 +79,7 @@
             "media": {
                 "url": "path/to/your/image2.jpg",
                 "caption": "The Second Of Many",
-                "credit": "Illustration by Artist Name"
+                "credit": "Illustration not available yet"
             },
             "start_date": {
                 "year": "1912"
@@ -96,7 +96,7 @@
             "media": {
                 "url": "path/to/your/image2.jpg",
                 "caption": "The Third Of Many",
-                "credit": "Illustration by Artist Name"
+                "credit": "Illustration not available yet"
             },
             "start_date": {
                 "year": "1928"
@@ -109,11 +109,28 @@
                 "text": "<p>The most destructive yet. And probably motivated by pure pettiness.</p>"
             }
         },
+                {
+            "media": {
+                "url": "path/to/your/image2.jpg",
+                "caption": "No one knew what was coming.",
+                "credit": "Illustration not available yet. But let's be honest, do you want to see people starving?"
+            },
+            "start_date": {
+                "year": "1939"
+            },
+            "end_date": {
+                "year": "1954"
+            },
+            "text": {
+                "headline": "Global Food Shortage",
+                "text": "<p>A worldwide famine caused by the destructive Third World War.</p>"
+            }
+        },
         {
             "media": {
                 "url": "path/to/your/image2.jpg",
                 "caption": "The Last... so far.",
-                "credit": "Illustration by Artist Name"
+                "credit": "Illustration not available yet"
             },
             "start_date": {
                 "year": "1946"
@@ -123,14 +140,14 @@
             },
             "text": {
                 "headline": "Fourth World War",
-                "text": "<p>So recent, yet so little is known about it. But we know how the Global Hunger Crisis started. We all do.</p>"
+                "text": "<p>The precursor to the Global Hunger Crisis yet caused by the Global Food Shortage. Nations try to gain arable land to feed their populations.</p>"
             }
         },
         {
             "media": {
                 "url": "path/to/your/image2.jpg",
                 "caption": "The Shattered Lands",
-                "credit": "Illustration by Artist Name"
+                "credit": "Illustration not available yet"
             },
             "start_date": {
                 "year": "2021"
@@ -140,17 +157,17 @@
             },
             "text": {
                 "headline": "Franco-German War",
-                "text": "<p>The war that shook Nouvelle Terre to its core, resulting in a stalemate and the unexpected revival of the Holy Roman Empire.</p>"
+                "text": "<p>The war that shook Nouvelle Terre to its core, resulting in a stalemate and the unexpected revival of the Holy Roman Empire. France needed land as much as Germany did. But they fought for so many times now...</p>"
             }
         },
         {
             "media": {
                 "url": "path/to/your/image3.jpg",
                 "caption": "Crisis Looms",
-                "credit": "Illustration by Artist Name"
+                "credit": "Illustration not available yet"
             },
             "start_date": {
-                "year": "2024"
+                "year": "1954"
             },
             "text": {
                 "headline": "Global Hunger Crisis",
