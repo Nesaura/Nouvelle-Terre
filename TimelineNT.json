@@ -1,0 +1,72 @@
+{
+    "title": {
+        "media": {
+            "url": "path/to/your/header-image.jpg",
+            "caption": "Nouvelle Terre: A Timeline of Despair"
+        },
+        "text": {
+            "headline": "The History of Nouvelle Terre",
+            "text": "<p>The tale of a world gone awry. Follow the key events that shaped this dystopian reality.</p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "path/to/your/image1.jpg",
+                "caption": "The Beginning of the End",
+                "credit": "Illustration by Artist Name"
+            },
+            "start_date": {
+                "year": "1337",
+                "month": "04",
+                "day": "13"
+            },
+            "text": {
+                "headline": "The Great Divergence",
+                "text": "<p>The timeline of Nouvelle Terre diverges from the Old World in 1337, during the Hundred Years War. Here, France achieves a decisive victory, changing the course of history forever.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "path/to/your/image2.jpg",
+                "caption": "The Shattered Lands",
+                "credit": "Illustration by Artist Name"
+            },
+            "start_date": {
+                "year": "2021"
+            },
+            "text": {
+                "headline": "Franco-German War",
+                "text": "<p>The war that shook Nouvelle Terre to its core, resulting in a stalemate and the unexpected revival of the Holy Roman Empire.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "path/to/your/image3.jpg",
+                "caption": "Crisis Looms",
+                "credit": "Illustration by Artist Name"
+            },
+            "start_date": {
+                "year": "2024"
+            },
+            "text": {
+                "headline": "Global Hunger Crisis",
+                "text": "<p>A worldwide famine sparks desperation among nations, pushing the world closer to the brink of another global war.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                "caption": "Propaganda from the Franco-German War",
+                "credit": "YouTube"
+            },
+            "start_date": {
+                "year": "2021"
+            },
+            "text": {
+                "headline": "The Propaganda Machine",
+                "text": "<p>During the war, both sides utilized propaganda to sway public opinion.</p>"
+            }
+        }
+    ]
+}

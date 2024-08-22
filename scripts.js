@@ -23,3 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     });
 });
+
+var timeline_json = "TimelineNT.json";
+    
+var timeline = new TL.Timeline('timeline-embed', timeline_json);
