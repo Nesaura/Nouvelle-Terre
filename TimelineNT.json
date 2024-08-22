@@ -175,17 +175,12 @@
             }
         },
         {
-            "media": {
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "caption": "Propaganda from the Franco-German War",
-                "credit": "YouTube"
-            },
             "start_date": {
-                "year": "2021"
+                "year": "2047"
             },
             "text": {
-                "headline": "The Propaganda Machine",
-                "text": "<p>During the war, both sides utilized propaganda to sway public opinion.</p>"
+                "headline": "Fifth World War?",
+                "text": "<p>Am I trying? Or do I even want to try? I... I can't keep living through this.</p>"
             }
         }
     ]
