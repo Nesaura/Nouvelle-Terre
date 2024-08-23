@@ -204,3 +204,36 @@ footer {
 .read-more:hover {
     text-decoration: underline; /* Underline on hover */
 }
+
+/* Clickable Card */
+
+.clickable-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.clickable-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Coming Soon page */
+
+.coming-soon-container {
+    text-align: center;
+    margin-top: 100px;
+}
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.back-link:hover {
+    background-color: #555;
+}

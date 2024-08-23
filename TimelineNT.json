@@ -109,7 +109,7 @@
                 "text": "<p>The most destructive yet. And probably motivated by pure pettiness.</p>"
             }
         },
-                {
+        {
             "media": {
                 "url": "path/to/your/image2.jpg",
                 "caption": "No one knew what was coming.",
@@ -169,26 +169,12 @@
             "start_date": {
                 "year": "1954"
             },
+            "end_date": {
+                "year": "2100"
+            },
             "text": {
                 "headline": "Global Hunger Crisis",
                 "text": "<p>A worldwide famine sparks desperation among nations, pushing the world closer to the brink of another global war.</p>"
-            }
-        },
-        {
-            "media": {
-                "url": "path/to/your/image3.jpg",
-                "caption": "Hello?",
-                "credit": "ILLUSTRATION UNREADABLE."
-            },
-            "start_date": {
-                "year": "2047"
-            },
-            "end_date": {
-                "year": "2158"
-            },
-            "text": {
-                "headline": "Fifth World War?",
-                "text": "<p>Am I trying? Or do I even want to try?</p>"
             }
         }
     ]
