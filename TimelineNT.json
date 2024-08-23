@@ -19,7 +19,10 @@
             "start_date": {
                 "year": "1337",
                 "month": "04",
-                "day": "13"
+                "day": "13",
+                "hour": "10",
+                "minute": "28",
+                "second": "42"
             },
             "text": {
                 "headline": "The Great Divergence",
@@ -28,7 +31,40 @@
         },
         {
             "media": {
-                "url": "path/to/your/image2.jpg",
+                "url": "assets/images/New-Achenar.png",
+                "caption": "Perhaps the few times Nouvelle Terre saw hilarious tales.",
+                "credit": "Illustration by Sleanux"
+            },
+            "start_date": {
+                "year": "1493",
+                "month": "08",
+                "day": "27"
+            },
+            "text": {
+                "headline": "Ebreinian colonisation of Z'verto",
+                "text": "<p>Many have tried, but few had as much success as the Ebreinians did. Isn't that right, Iberia?</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/New-Solesteynn.png",
+                "caption": "The only armed conflict they fought against each other.",
+                "credit": "Illustration by Sleanux"
+            },
+            "start_date": {
+                "year": "1515",
+                "month": "05",
+                "day": "18",
+                "hour": "15"
+            },
+            "text": {
+                "headline": "The 30-Minutes War",
+                "text": "<p>The shortest conflict in the history of Nouvelle Terre. And probably the least violent too.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
                 "caption": "The First Of Many",
                 "credit": "Illustration not available yet"
             },
@@ -40,23 +76,7 @@
             },
             "text": {
                 "headline": "First World War",
-                "text": "<p>The first world war Nouvelle Terre has ever experienced, and perhaps one of the biggest domino effect in its history.</p>"
-            }
-        },
-        {
-            "media": {
-                "url": "path/to/your/image2.jpg",
-                "caption": "They didn't stand a chance...",
-                "credit": "Illustration not available yet"
-            },
-            "start_date": {
-                "day": "05",
-                "month": "02",
-                "year": "1892"
-            },
-            "text": {
-                "headline": "Conquest of Portugal",
-                "text": "<p>Marrero's Spain annexes Portugal with little to no resistance.</p>"
+                "text": "<p>The first world war Nouvelle Terre has ever experienced, and perhaps one of the biggest domino effect in its history. Notable for the first usage of a war machine like the tank.</p>"
             }
         },
         {
@@ -77,7 +97,7 @@
         },
         {
             "media": {
-                "url": "path/to/your/image2.jpg",
+                "url": "",
                 "caption": "The Second Of Many",
                 "credit": "Illustration not available yet"
             },
@@ -94,7 +114,7 @@
         },
         {
             "media": {
-                "url": "path/to/your/image2.jpg",
+                "url": "",
                 "caption": "The Third Of Many",
                 "credit": "Illustration not available yet"
             },
@@ -111,7 +131,7 @@
         },
         {
             "media": {
-                "url": "path/to/your/image2.jpg",
+                "url": "",
                 "caption": "No one knew what was coming.",
                 "credit": "Illustration not available yet. But let's be honest, do you want to see people starving?"
             },
@@ -128,7 +148,7 @@
         },
         {
             "media": {
-                "url": "path/to/your/image2.jpg",
+                "url": "",
                 "caption": "The Last... so far.",
                 "credit": "Illustration not available yet"
             },
@@ -145,7 +165,7 @@
         },
         {
             "media": {
-                "url": "path/to/your/image2.jpg",
+                "url": "",
                 "caption": "The Shattered Lands",
                 "credit": "Illustration not available yet"
             },
@@ -162,7 +182,7 @@
         },
         {
             "media": {
-                "url": "path/to/your/image3.jpg",
+                "url": "",
                 "caption": "Crisis Looms",
                 "credit": "Illustration not available yet"
             },
@@ -175,6 +195,53 @@
             "text": {
                 "headline": "Global Hunger Crisis",
                 "text": "<p>A worldwide famine sparks desperation among nations, pushing the world closer to the brink of another global war.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/Ebrein.png",
+                "caption": "Unity, Liberty, Equity, Brotherhood.",
+                "credit": "Illustration by Sleanux"
+            },
+            "start_date": {
+                "month": "11",
+                "year": "1962"
+            },
+            "text": {
+                "headline": "The Second Ebreinian Republic is Born",
+                "text": "<p>A new Constitution causes the entire administration of Ebrein to reorganise, therefore giving birth to a new Republic.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/bengentonk1.jpg",
+                "caption": "Revolutionnary for the time.",
+                "credit": "Illustration by Sleanux"
+            },
+            "start_date": {
+                "day": "10",
+                "month": "02",
+                "year": "1892"
+            },
+            "text": {
+                "headline": "The tank is first used in war",
+                "text": "<p>The first recorded usage of the tank, it has possibly been in development since 1880 in Ebrein.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/Marrero.jpg",
+                "caption": "Portrait of Marrero in 1892.",
+                "credit": "Illustration is AI-generated (will be replaced soon by human art)"
+            },
+            "start_date": {
+                "day": "25",
+                "month": "11",
+                "year": "1886"
+            },
+            "text": {
+                "headline": "Spanish coup",
+                "text": "<p>General Marrero orchestrates a coup against the weakened Spanish government, and succesfully overthrows the Spanish monarchy, which marks the beginning of Marrero's Spain.</p>"
             }
         }
     ]
