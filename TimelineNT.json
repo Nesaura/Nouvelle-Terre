@@ -28,6 +28,22 @@
         },
         {
             "media": {
+                "url": "assets/images/hero.jpg",
+                "caption": "The End of the Beginning",
+                "credit": "Where was I?"
+            },
+            "start_date": {
+                "year": "2337",
+                "month": "04",
+                "day": "13"
+            },
+            "text": {
+                "headline": "The Final Divergence",
+                "text": "<p>[ERROR: OBJECT 'DESCRIPTION' NOT FOUND]</p>"
+            }
+        },
+        {
+            "media": {
                 "url": "path/to/your/image2.jpg",
                 "caption": "The First Of Many",
                 "credit": "Illustration not available yet"
