@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chronicles of Nouvelle Terre</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <style>
+        body {
+            background-color: #111; /* Dark background */
+            color: #e0e0e0; /* Light text */
+            font-family: 'Georgia', serif; /* Serif font for a historical, immersive feel */
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        img {
+            width: 80px; /* Scaled-down logo */
+            height: auto;
+        }
+        h1 {
+            font-size: 3em;
+            margin: 20px 0;
+            color: #ffa500; /* Amber color */
+        }
+        h2 {
+            font-size: 1.8em;
+            margin: 10px 0;
+            color: #ff4500; /* Slightly darker orange for subheaders */
+        }
+        .chronicles {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .chronicle-card {
+            background-color: #1e1e1e;
+            border: 2px solid #333;
+            border-radius: 8px;
+            width: 300px;
+            padding: 20px;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
+            text-align: left;
+            transition: transform 0.3s ease;
+        }
+        .chronicle-card:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 6px 15px rgba(255, 165, 0, 0.5);
+        }
+        .chronicle-card h3 {
+            font-size: 1.5em;
+            color: #ffa500;
+            margin-bottom: 10px;
+        }
+        .chronicle-card p {
+            font-size: 1.1em;
+            line-height: 1.5;
+            color: #c9c9c9;
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #777;
+        }
+        a {
+            color: #ffa500;
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-bottom 0.3s;
+        }
+        a:hover {
+            border-bottom: 1px solid #ffa500;
+        }
+        nav.breadcrumb {
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        nav.breadcrumb a {
+            color: #ffa500;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        nav.breadcrumb a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://i.imgur.com/iNgClu2.png" alt="It will never feel the same.">
+        <h1>Chronicles of Nouvelle Terre</h1>
+        <p>Every world, no matter how hellish, has its story to tell us.</p>
+    </header>
+	
+	    <!-- Breadcrumb Navigation -->
+    <nav class="breadcrumb">
+        <a href="index.html">Home</a> &raquo;
+        <span>Chronicles</span>
+    </nav>
+    
+    <section class="chronicles">
+        <div class="chronicle-card">
+            <h3>Fleeting as life is, food is shorting.</h3>
+            <p>— "Look, Dad!" said the little boy to his father, pointing to the sky, "It's like a star, but it's moving!" he added in an awestruck voice as if he had never seen such a sight in his life...</p>
+            <a href="fleetingcomet.html">Read More &raquo;</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Nouvelle Terre. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
