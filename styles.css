@@ -169,42 +169,6 @@ footer {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Subtle shadow */
 }
 
-#news-section {
-    background-color: #222; /* Dark background */
-    color: #fff; /* White text */
-    padding: 20px;
-    border-radius: 8px;
-    margin: 20px 0;
-}
-
-.news-article {
-    border-bottom: 1px solid #444;
-    padding: 15px 0;
-}
-
-.news-article h3 {
-    margin: 0;
-    font-size: 1.5em;
-}
-
-.news-date {
-    font-size: 0.9em;
-    color: #bbb; /* Lighter gray for the date */
-}
-
-.news-content {
-    margin: 10px 0;
-}
-
-.read-more {
-    color: #ffcc00; /* Highlight color for links */
-    text-decoration: none;
-}
-
-.read-more:hover {
-    text-decoration: underline; /* Underline on hover */
-}
-
 /* Clickable Card */
 
 .clickable-card {
