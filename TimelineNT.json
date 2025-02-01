@@ -244,5 +244,26 @@
                 "text": "<p>General Marrero orchestrates a coup against the weakened Spanish government, and succesfully overthrows the Spanish monarchy, which marks the beginning of Marrero's Spain.</p>"
             }
         }
+        {
+            "media": {
+                "url": "assets/images/Ebrein.png",
+                "caption": "Flag of the Second Republic of Ebrein.",
+                "credit": "Sleanux"
+            },
+            "start_date": {
+                "day": "25",
+                "month": "12",
+                "year": "2024"
+            },
+            "end_date": {
+                "day": "8",
+                "month": "01",
+                "year": "2025"
+            },
+            "text": {
+                "headline": "Fourteen Days of Terror",
+                "text": "<p>Huge protests in Laurae (Ladora) following the arrestation of the Ebreinian opposition turn extremely brutal.</p>"
+            }
+        }
     ]
 }
